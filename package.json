@@ -1,0 +1,11 @@
+{
+  "name": "catalogue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shane Johnson <shanej@ultravisual.co.uk>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "catalogues/**"
+  ]
+}
